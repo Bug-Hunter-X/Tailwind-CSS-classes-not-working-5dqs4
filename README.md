@@ -1,0 +1,1 @@
+This repository contains a simple example of a common Tailwind CSS bug and its solution. The bug involves a div element where the background color class is not applied correctly. The solution demonstrates the correct usage of Tailwind classes and identifies a potential cause for the issue: a missing or incorrect parent container.
